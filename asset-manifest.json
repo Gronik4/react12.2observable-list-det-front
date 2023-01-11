@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react12.2observable-list-det-front/static/css/main.e590b6b3.css",
+    "main.js": "/react12.2observable-list-det-front/static/js/main.a03ab0cd.js",
+    "static/js/787.11d68c2a.chunk.js": "/react12.2observable-list-det-front/static/js/787.11d68c2a.chunk.js",
+    "static/media/load.gif": "/react12.2observable-list-det-front/static/media/load.995dfc14c9ac1c6ec1a2.gif",
+    "index.html": "/react12.2observable-list-det-front/index.html",
+    "main.e590b6b3.css.map": "/react12.2observable-list-det-front/static/css/main.e590b6b3.css.map",
+    "main.a03ab0cd.js.map": "/react12.2observable-list-det-front/static/js/main.a03ab0cd.js.map",
+    "787.11d68c2a.chunk.js.map": "/react12.2observable-list-det-front/static/js/787.11d68c2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e590b6b3.css",
+    "static/js/main.a03ab0cd.js"
+  ]
+}
