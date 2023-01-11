@@ -33,7 +33,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://gronik4.github.io/react12.2observable-list-det-front/",
+  "homepage": "https://github.com/Gronik4/react12.2observable-list-det-front",
   "browserslist": {
     "production": [
       ">0.2%",
